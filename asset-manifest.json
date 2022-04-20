@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wide-pants.github.io/csb-9yc0hb/static/css/main.8f358972.chunk.css",
+    "main.js": "https://wide-pants.github.io/csb-9yc0hb/static/js/main.c94f2480.chunk.js",
+    "main.js.map": "https://wide-pants.github.io/csb-9yc0hb/static/js/main.c94f2480.chunk.js.map",
+    "runtime-main.js": "https://wide-pants.github.io/csb-9yc0hb/static/js/runtime-main.8854cac7.js",
+    "runtime-main.js.map": "https://wide-pants.github.io/csb-9yc0hb/static/js/runtime-main.8854cac7.js.map",
+    "static/js/2.1395eb5c.chunk.js": "https://wide-pants.github.io/csb-9yc0hb/static/js/2.1395eb5c.chunk.js",
+    "static/js/2.1395eb5c.chunk.js.map": "https://wide-pants.github.io/csb-9yc0hb/static/js/2.1395eb5c.chunk.js.map",
+    "index.html": "https://wide-pants.github.io/csb-9yc0hb/index.html",
+    "static/css/main.8f358972.chunk.css.map": "https://wide-pants.github.io/csb-9yc0hb/static/css/main.8f358972.chunk.css.map",
+    "static/js/2.1395eb5c.chunk.js.LICENSE.txt": "https://wide-pants.github.io/csb-9yc0hb/static/js/2.1395eb5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8854cac7.js",
+    "static/js/2.1395eb5c.chunk.js",
+    "static/css/main.8f358972.chunk.css",
+    "static/js/main.c94f2480.chunk.js"
+  ]
+}
